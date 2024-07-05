@@ -12,7 +12,7 @@
 	"compatibility": {
 		"minimum": "11",
 		"verified": "11",
-		"maximum": "12"
+		"maximum": "11"
 	},
   "scripts": [],
   "esmodules": [
@@ -36,6 +36,6 @@
   "packs": [],
   "system": [],
 	"relationships": {},
-  "manifest": "https://github.com/Ellzud/foundry/blob/main/ready-cards.json",
+  "manifest": "https://gitlab.com/adrien.schiehle/ready-to-use-cards/-/raw/master/module.json",
   "download": "https://gitlab.com/adrien.schiehle/ready-to-use-cards/-/archive/release-1.12.5/ready-to-use-cards-release-1.12.5.zip"
 }
