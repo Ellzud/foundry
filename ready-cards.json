@@ -36,6 +36,6 @@
   "packs": [],
   "system": [],
 	"relationships": {},
-  "manifest": "https://gitlab.com/adrien.schiehle/ready-to-use-cards/-/raw/master/module.json",
+  "manifest": "https://github.com/Ellzud/foundry/blob/main/ready-cards.json",
   "download": "https://gitlab.com/adrien.schiehle/ready-to-use-cards/-/archive/release-1.12.5/ready-to-use-cards-release-1.12.5.zip"
 }
